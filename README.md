@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi! I'm Gian
+## I'm from 9-Arrowsmith (CN28)
 
-<!--
-**arrowsmith28/arrowsmith28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My hobbies are:
+- Volleyball
+- Badminton
+- Mobile Games
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My favorite sites are:
+- [Youtube](https://youtube.com)![Logo of Youtube](https://stock.adobe.com/ph/search?k=youtube+logo)
+- [Tiktok](https://tiktok.com)
+- [Roblox](https://roblox.com)
