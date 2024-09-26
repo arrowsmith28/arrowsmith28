@@ -8,6 +8,5 @@
 
 ### My favorite sites are:
 - [Youtube](https://youtube.com)
-![Logo of Youtube](https://stock.adobe.com/ph/search?k=youtube+logo)
 - [Tiktok](https://tiktok.com)
 - [Roblox](https://roblox.com)
